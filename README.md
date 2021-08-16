@@ -7,3 +7,9 @@
 
 1.깃허브 리포지토리 haha1에 가서 https://github.com/ahnjungeun/haha1.git를 클론하고 cmd창에서 https://github.com/ahnjungeun/haha1.git를 입력한다.
 2. cmd창에서 cd 해당폴더 로 이동한 후 npm install과 npm start를 입력하면 로컬로 웹사이트를 실행한다.
+
+# 추후 수정 방안
+
+1. 홈페이지 UI 수정
+(사용자들이 보기 편하게!)
+https://user-images.githubusercontent.com/42180969/129500667-fc8bf4d3-6e4a-4637-a08a-c5f003844abd.png
